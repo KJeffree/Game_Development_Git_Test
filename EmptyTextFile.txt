@@ -1,0 +1,6 @@
+﻿You climb aboard the the Hogwarts Express and wander down the aisle.
+You see a compartment with one student inside looking lonely, and another
+compartment which is empty. Which one do you go into?
+
+1. Join the lonely student
+2. Go into the empty compartment
